@@ -1,4 +1,5 @@
 # LightBnB
+This project defines functions to interact with a PostgreSQL database for a property rental application, including retrieving user data by email or ID, adding new users, fetching user reservations, retrieving properties with filters, and adding new properties. It also sets up API endpoints using Express to handle property and reservation requests, allowing users to get properties, view their reservations, and add new properties.
 
 ## Project Structure
 
