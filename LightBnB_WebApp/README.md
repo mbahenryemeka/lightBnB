@@ -54,3 +54,7 @@ This project defines functions to interact with a PostgreSQL database for a prop
 * `routes` contains the router files which are responsible for any HTTP requests to `/users/something` or `/api/something`. 
 * `styles` contains all of the sass files. 
 * `server.js` is the entry point to the application. This connects the routes to the database.
+
+
+!["screenshot of lightBnB home page"](./docs/lightBnB_home_page.png) 
+!["screenshot of lightBnB login page with a user email"](./docs/lightBnB_login_with_user_email.png)
